@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algobrother&label=Profile%20views&color=0e75b6&style=flat" alt="algobrother" /> </p>
 
-- 🔭 I’m currently working on **on building a neural network from scratch with python (and bind it with C if possible for performance improvements if possible)**
+- 🔭 I’m currently working on **on building a neural network from scratch with python**
 
 - 🌱 I’m currently learning **C language, Deep Learning, Computer Vision, and DSA in C/C++**
 
