@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="48" height="48" style="margin: 4px;" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/1280px-LangChain_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250612121153" alt="LangChain" width="48" height="48" style="margin: 4px;" />
 </p>
 <p align="center">
   LangGraph · ChromaDB · REST APIs · PyO3 · Python Packaging
